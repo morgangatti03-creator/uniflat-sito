@@ -1,0 +1,22 @@
+Tutte le foto: Freepik, oggi Magnific (magnific.com), licenza gratuita con
+attribuzione («Foto di Freepik» in fondo a ogni pagina). Filtro caldo del sito
+applicato con sharp (scratchpad grade2.cjs: saturazione 0,9, contrasto 1,07,
+blu 0,93).
+
+ukulele             (e ukulele-volto, il ritaglio del viso per l'adesivo in home)
+                    vertical-portrait-happy-young-woman-playing-ukulele-learns-new-musical-instrument-sits-sofa_1258-204075
+giulia              smiley-woman-nature_23-2148574868
+marco               medium-shot-smiley-man-posing-outdoors_23-2149557009
+coinquilini-casa    full-shot-roommates-spending-time-indoors (16 ottobre 2026, alta
+                    risoluzione scaricata dal titolare, N7; 1200 e 2400 px)
+divano-portatile    full-shot-people-spending-time-home_23-2149358502
+
+I nomi Giulia e Marco sono inventati: le card sono dichiarate «Profilo di esempio».
+
+fondatori: foto dei due fondatori, fornita dal titolare l'11 ottobre 2026.
+Metadati tolti (posizione GPS compresa), filtro del sito applicato.
+
+Email (sito/public/email, JPG da 740 px senza filigrana, filtro del sito):
+benvenuto   23-2149358482 · divano 23-2149358508 · letto 23-2149358520
+salotto     23-2149358490 · fondatori: la foto dei fondatori
+marchio.png: l'icona dell'app (assets/icon.png)

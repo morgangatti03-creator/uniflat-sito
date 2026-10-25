@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <!-- L'onboarding su uniflat.it/profilo (13-LANCIO-PER-SOGLIA §5). Invisibile
+         ai motori come il resto del sito finché Apple non approva l'app (W2). -->
+    <meta name="robots" content="noindex, nofollow" />
+    <title>Uniflat · Il tuo profilo</title>
+    <meta name="description" content="Completa il tuo profilo su Uniflat: quando apriamo la tua città, trovi già le chat con le persone più compatibili con te." />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <!-- Il fondo è color.bg di theme.ts: qui non si può importare, e senza
+         la pagina lampeggerebbe bianca prima che parta l'app. Su uno schermo
+         largo l'app resta della misura di un telefono (web.dialog), al centro. -->
+    <style id="expo-reset">
+      html, body { height: 100%; background: #000000; }
+      body { overflow: hidden; margin: 0; }
+      #root { display: flex; height: 100%; flex: 1; max-width: 520px; margin: 0 auto; }
+      /* Il marchio mentre l'app si avvia (N33): si vede subito, React lo
+         sostituisce appena parte. Stesso giallo di theme.ts. */
+      .avvio { margin: auto; width: 72px; height: 72px; animation: respiro 1.4s ease-in-out infinite; }
+      @keyframes respiro { 50% { opacity: .45; } }
+      @media (prefers-reduced-motion: reduce) { .avvio { animation: none; } }
+    </style>
+  </head>
+  <body>
+    <noscript>Per completare il profilo su Uniflat serve JavaScript.</noscript>
+    <div id="root">
+      <svg class="avvio" viewBox="0 0 100 100" role="img" aria-label="Uniflat">
+        <g fill="#FFD400" stroke="#FFD400"><circle cx="34" cy="22" r="10" stroke="none"/><circle cx="66" cy="22" r="10" stroke="none"/><path d="M34 44 V62 A16 16 0 0 0 66 62 V44" fill="none" stroke-width="17" stroke-linecap="round"/></g>
+      </svg>
+    </div>
+  <script src="/profilo/_expo/static/js/web/entry-d06f372ee27de0a8e04948be610bfe5b.js" defer></script>
+</body>
+</html>
