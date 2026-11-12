@@ -1,0 +1,6 @@
+fondatori: foto dei due fondatori, fornita dal titolare l'11 ottobre 2026.
+Metadati tolti (posizione GPS compresa), filtro del sito applicato.
+
+Le foto di repertorio (Freepik) non sono più sul sito dal 12 novembre 2026:
+le persone sono oggetti di casa illustrati (O5, O10). Gli originali e i loro
+crediti stanno in materiali/archivio-foto-sito/, fuori da git.
